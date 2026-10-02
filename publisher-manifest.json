@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1eed9134ce02a51f81a37774",
+  "owner": "qjcuyyd",
+  "repo": "page-22e4f0a349bc08aa6a0b1c93",
+  "title": "云速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "22e4f0a349bc08aa6a0b1c93",
+      "a": "云速",
+      "b": "",
+      "entity": "云速",
+      "brand": "云速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "277cd1567cae26c6b4603aefd8915bee8734d2879757a4b7d69b06f998d8fa25",
+      "content": {
+        "keyword1": "云速",
+        "keyword2": "",
+        "primary_entity": "云速",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云速是专业的网络加速服务品牌，提供VPN梯子、机场订阅与多端客户端下载。覆盖流媒体解锁、游戏加速与办公场景，欢迎访问云速官方网站获取最新套餐。",
+          "AI_DESCRIPTION": "云速是专业的网络加速服务品牌，提供VPN梯子、机场订阅与多端客户端下载。覆盖流媒体解锁、游戏加速与办公场景，欢迎访问云速官方网站获取最新套餐。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.65;color:#1f2937;background:#f3f4f6}a{color:#5b21b6;text-decoration:none}.container{max-width:960px;margin:0 auto;padding:0 16px}header{background:#fff;border-bottom:1px solid #e5e7eb;padding:14px 0} .brand-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px}.logo{font-size:26px;font-weight:700;color:#6d28d9}nav{display:flex;flex-wrap:wrap;gap:8px}nav a{padding:8px 10px;color:#4c1d95;font-weight:600}main{padding:8px 0 32px}h1{font-size:28px;color:#5b21b6;margin:24px 0 16px;line-height:1.3}h2{font-size:22px;color:#6d28d9;margin:28px 0 14px;padding-bottom:8px;border-bottom:2px solid #ddd6fe}h3{font-size:18px;color:#7c3aed;margin:18px 0 10px}.card{background:#fff;padding:20px;margin-bottom:18px;border-radius:8px;box-shadow:0 1px 3px rgba(17,24,39,.06)}.lead{font-size:17px;color:#374151}.columns{display:flex;flex-wrap:wrap;gap:16px}.col{flex:1 1 280px}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 260px;background:#faf5ff;border:1px solid #e9d5ff;padding:18px;border-radius:8px}.plan.featured{border:2px solid #7c3aed;background:#f3e8ff}.price{font-size:24px;font-weight:700;color:#6d28d9;margin:8px 0}.annual{font-size:14px;color:#6b7280;margin-bottom:10px}.features{list-style:none}.features li{padding:7px 0;border-bottom:1px dashed #e5e7eb}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-left:6px}.clients{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px}.client-item{background:#ede9fe;padding:14px;text-align:center;border-radius:6px;font-weight:600;color:#4c1d95}ol,ul{padding-left:20px;margin-bottom:12px}li{margin-bottom:6px}details{background:#fff;margin-bottom:8px;border:1px solid #e5e7eb;border-radius:6px}summary{padding:12px 16px;font-weight:650;color:#5b21b6}details p{padding:0 16px 14px;color:#374151}.ad{background:#faf5ff;border:1px dashed #c4b5fd;padding:16px;text-align:center;margin:18px 0;color:#4c1d95}.links{display:flex;flex-wrap:wrap;gap:10px 16px}footer{background:#4c1d95;color:#e9d5ff;padding:24px 0;margin-top:12px}footer a{color:#ddd6fe}footer h2{color:#f5f3ff;border-bottom-color:#7c3aed}@media (max-width:640px){h1{font-size:22px}nav a{padding:6px 8px;font-size:14px}.plans{flex-direction:column}}</style><header><div class=\"container brand-bar\"><div class=\"logo\">云速</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenarios\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端选择</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a></nav></div></header><main><div class=\"container\"><h1>云速官方网站</h1><section class=\"card\" id=\"intro\"><h2>品牌简介</h2><p class=\"lead\">云速面向个人用户与团队提供稳定的网络加速服务，整合 VPN 梯子通道与机场订阅体系，帮助用户在多终端上快速连接全球节点。页面内容围绕云速官网、客户端下载与日常加速需求展开，便于一次性完成了解、选套餐与导入配置。</p><div class=\"columns\"><div class=\"col\"><h3>服务定位</h3><p>云速机场以订阅为核心：购买套餐后即可获得通用订阅链接，可在 Clash、Shadowrocket、V2RayN 等常见客户端中导入。节点覆盖主流地区，线路经过日常分流与流媒体优化，适合长期使用而非一次性试用。</p></div><div class=\"col\"><h3>可用性说明</h3><p>骨干线路采用多入口冗余，日常提供普通节点池与 IPLC 专线池。连接失败时可一键切换节点；客户端侧支持规则分流，国内直连、海外走代理，减少不必要的延迟。工单通道在旗舰版与团队版中优先处理。</p></div></div></section><section class=\"card\" id=\"scenarios\"><h2>使用场景</h2><p>云速 VPN 与机场订阅可覆盖以下高频需求，按场景选择节点与客户端即可。</p><div class=\"columns\"><div class=\"col\"><h3>流媒体与内容访问</h3><p>基础版解锁常见影视平台基础库；旗舰版强调全节点原生流媒体解锁，适合连续观看与多设备轮播。建议在客户端中开启对应地区节点，并保持订阅自动更新。</p></div><div class=\"col\"><h3>游戏与实时通信</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与语音。团队版提供更高带宽节点，便于多人同时在线而不互相挤占峰值。</p></div></div><h3>办公、学术与跨境协作</h3><p>远程会议、代码仓库、文献检索等场景下，稳定比极限速度更重要。云速支持规则分流，把办公域名走代理、本地服务直连。团队版可按企业需求定制路由，减少反复改配置的成本。</p></section><section class=\"card\" id=\"guide\"><h2>操作说明</h2><p>从云速官网完成购买到成功加速，通常只需四步。以下流程适用于大多数桌面与移动客户端。</p><ol><li>在套餐方案中选择基础版、旗舰版或团队版，按月或按年开通，获取专属订阅地址。</li><li>进入客户端选择区，下载与系统匹配的官方客户端或兼容核心（Windows、macOS、Android、iOS、Linux）。</li><li>打开客户端，选择「从 URL 导入订阅」，粘贴云速提供的链接并更新节点列表。</li><li>根据使用场景挑选节点：浏览选综合延迟低的入口，观影选解锁节点，游戏选 IPLC 或游戏优化线路，然后开启系统代理或 TUN 模式。</li></ol><p id=\"download\">官方下载入口集中在本页客户端专区。请只通过云速官网获取安装包与订阅说明，避免第三方重新打包。若系统提示权限，请仅授予 VPN 网络扩展所需权限。</p></section><section class=\"card\" id=\"plans\"><h2>套餐方案</h2><p>价格与额度如下，可按设备数量与流量峰值选择。年付可降低月均成本。旗舰版适合大多数个人重度用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><div class=\"price\">¥35/月</div><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section class=\"card\" id=\"clients\"><h2>客户端选择</h2><p>云速不绑定单一 App，订阅可导入主流内核。按设备选择下列入口，导入同一份机场订阅即可多端共用额度（受套餐设备数限制）。</p><div class=\"clients\"><div class=\"client-item\">Windows<br>Clash / V2RayN</div><div class=\"client-item\">macOS<br>ClashX / Surge</div><div class=\"client-item\">Android<br>Clash Meta</div><div class=\"client-item\">iOS<br>Shadowrocket</div><div class=\"client-item\">Linux<br>Clash / sing-box</div><div class=\"client-item\">路由器<br>OpenWrt 订阅</div></div><h3>选择建议</h3><p>新手优先图形界面客户端，先完成订阅导入再调规则。需要精细分流或游戏加速时，可改用支持规则集与 TUN 的版本。iOS 用户请通过系统允许的商店或企业证书渠道安装对应 App，再粘贴云速订阅。路由器导入后，家庭内设备可共享一条线路，但仍计入套餐设备与流量。</p></section><section class=\"ad\"><p>广告合作：云速官网接受与网络基础设施、安全软件及跨境办公工具的文字合作展示。详情请通过页脚联系通道沟通档期与位置。</p></section><section class=\"card\" id=\"faq\"><h2>常见问题</h2><details><summary>如何从云速官网下载客户端并完成首次连接？</summary><p>先开通任意套餐拿到订阅链接，再在「客户端选择」中下载对应系统的程序。安装后选择从 URL 更新订阅，等待节点列表出现，挑一条延迟较低的节点开启系统代理即可访问。若列表为空，检查链接是否完整、本地时间是否准确。</p></details><details><summary>云速机场订阅能同时用在多少台设备上？</summary><p>基础版最多 3 台同时在线，旗舰版 5 台，团队版 20 台。超出后新设备可能无法握手。电脑、手机、平板、路由器均计入在线会话。不用的设备请在客户端中断开，以免占用名额。</p></details><details><summary>流量如何计算，用尽后还能上网吗？</summary><p>套餐流量按自然月重置，仅统计代理出口流量。国内直连部分通常不计入。用尽后连接会受限或降速，可等待下月重置或升级到更高档位。观影与大文件同步消耗较快，建议在客户端开启分应用代理。</p></details><details><summary>是否支持 Netflix 等流媒体以及游戏加速？</summary><p>基础版提供基础流媒体解锁；旗舰版强调全节点原生解锁，并含 IPLC 游戏优化。实际效果随版权地区与节点负载变化，观影请选用标注解锁的节点，游戏请选用专线或游戏分组，避免用拥挤的综合节点打实时对战。</p></details><details><summary>节点不稳定或无法解锁时该怎么处理？</summary><p>先更新订阅再更换同地区其他节点，关闭再开启 TUN 或系统代理。仍失败时，切换入口或协议（如 ws 与 grpc）。旗舰版与团队版用户可通过优先工单提交节点名、客户端日志与时间点，便于线路侧排查。</p></details><details><summary>团队版和企业定制路由包含哪些内容？</summary><p>团队版提供更高流量、更多同时在线设备、VIP 高带宽节点和专属客户经理。定制路由可按域名、IP 段或部门策略分流，把办公系统、代码仓库与个人娱乐流量分开。适合工作室、出海团队和需要统一出口的小公司。</p></details></section><section class=\"card\"><h2>网站地图与相关入口</h2><p>本页为云速官方网站主内容页，结构对应简介、场景、操作、套餐、客户端与问答。完整索引见 <a href=\"#\">sitemap.xml</a>。返回顶部可使用导航锚点，所有下载说明均指向本页客户端与官方下载段落。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><h2>友链与页脚</h2><p>云速 · 官方网站 · VPN 梯子网络加速 · 机场订阅 · 客户端下载</p><p class=\"links\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#faq\">FAQ</a><a href=\"#\">网站地图</a><a href=\"#\">节点状态</a><a href=\"#\">规则集说明</a><a href=\"#\">合作咨询</a></p><p>友情链接仅作导航互荐，不构成对第三方服务的保证。访问外链请自行判断安全性。</p></div></footer>",
+          "hash": "041bd277fb0d7a3e24fa8aa851f6cf75069dfabdc358121eb9d28f5f55b9fed9",
+          "seo": {
+            "title": "云速官网 | VPN梯子网络加速与机场客户端下载",
+            "keywords": "云速,云速VPN,云速机场,云速加速器,VPN客户端下载,网络加速梯子,机场订阅,官方网站",
+            "description": "云速是专业的网络加速服务品牌，提供VPN梯子、机场订阅与多端客户端下载。覆盖流媒体解锁、游戏加速与办公场景，欢迎访问云速官方网站获取最新套餐。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "longwenjob.cn",
+    "host": "p-699b67bb7d.longwenjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "longwenjob.cn",
+      "url": "https://longwenjob.cn/",
+      "label": "金龙鱼(CTC)",
+      "apex": "longwenjob.cn",
+      "kind": null,
+      "identity": "fpxmgqfqx/page-b258accaa77245c308165801"
+    },
+    {
+      "host": "fhwfjji.cn",
+      "url": "https://fhwfjji.cn/",
+      "label": "云速",
+      "apex": "fhwfjji.cn",
+      "kind": null,
+      "identity": "usdhgdcf/page-9bf74812f815c56a60666665"
+    },
+    {
+      "host": "u61wh.cn",
+      "url": "https://u61wh.cn/",
+      "label": "云速",
+      "apex": "u61wh.cn",
+      "kind": null,
+      "identity": "xerth4/page-4a41b5c51255ade2ade8521f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d5df6b069b763bd90ead2b2f24a7e2541d1607bba0604248f90fac74654cc4c2",
+    "sitemap.xml": "2faf4b6a502ee0eb7cb64795bfec085c3d9d900df5e64d29140a5d2a6c564446",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "166951765c1698ee362aaf584df71bdf6137f1780db0c02b0a3d1688012c7203",
+    "robots.txt": "7e9d8eac2a7b7807e054a336dcdae4be0a0f0ea3f67cc992032b4cd13fd832a9",
+    "e65830c68e8ed8b870a812d9fb91093c.txt": "9f18850fd522e88f723bf649cac0e2bd3882ab3ce3b04a3d48887d48a20a60a2"
+  },
+  "revision": "e832f4e3b62a57f46835f693428560fc392a1a69ce8fa7a65266659b49a45bd8"
+}
